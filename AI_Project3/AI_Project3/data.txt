@@ -1,0 +1,7 @@
+Python Crash Course,Python Programming
+Machine Learning Basics,AI
+AI for Everyone,AI
+Flutter Development,Mobile Development
+Firebase Guide,Mobile Development
+Data Science Handbook,Data Science
+Excel for Beginners,Data Analysis
